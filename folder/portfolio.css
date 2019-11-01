@@ -1,0 +1,39 @@
+body {
+    background-image: url('front4');
+    background-size: cover;
+    
+}
+#link{
+    text-align: right;
+    margin: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: x-large;
+    justify-content: space-between ;
+}
+a{
+    color:white;
+}
+#text{
+    text-align: center;
+    margin-top: 20%;
+}
+#logo{
+    display: flex;
+    border: 2px solid whitesmoke;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    font-size: 50px; 
+    color: white;
+    background-color:black;
+
+}
+#logo h1{
+    margin:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#socialid{
+    width:40px;
+
+}
